@@ -7,23 +7,24 @@ a
 {
     display: flex;
     justify-content: space-around;
-    background-color:gray;
-    color: bisque;
+    background-color:rgb(195, 221, 79);
+    
     
 }
 .sec
 {
-    font-size: 50px;
+    font-size: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: crimson;
-    font-family: Georgia;
-    background-color:azure;
+    color: rgb(183, 200, 175);
+    font-family: Impact;
+    background-color:rgb(51, 60, 130);
+    
 }
 #one{
     font-weight: bolder;
-    color: rgb(205, 49, 119);
+    color: rgb(49, 137, 205);
     font-style: italic;
     font-size: 20px;
     font-family: Georgia;
@@ -37,7 +38,8 @@ a
 }
 img
 {
-    si
+   width: 100%;
+   height: auto; 
    background-size: cover; 
 
 }
