@@ -1,0 +1,37 @@
+h1
+{
+    color: crimson;
+    font-family: Georgia;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+p
+{
+    color: blue;
+    font-family:Arial;
+}
+a
+{
+    text-decoration: none;
+}
+#one
+{
+    color: blueviolet;
+    animation-iteration-count: infinite;
+}
+.main{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    /* margin: 100px;
+    padding: 50px;
+    font-size: 50px;
+    border-style: dotted;
+    text-align: center; */
+}
+.first{
+    color:coral
+    
+}

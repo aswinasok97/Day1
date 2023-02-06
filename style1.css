@@ -1,0 +1,43 @@
+a
+{
+    text-decoration: none;
+    font-size: 28px;
+}
+.box
+{
+    display: flex;
+    justify-content: space-around;
+    background-color:gray;
+    color: bisque;
+    
+}
+.sec
+{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+    font-family: Georgia;
+    background-color:azure;
+}
+#one{
+    font-weight: bolder;
+    color: rgb(205, 49, 119);
+    font-style: italic;
+    font-size: 20px;
+    font-family: Georgia;
+}
+#two{
+    font-weight: bolder;
+    color: royalblue;
+    font-style: italic;
+    font-size: 20px;
+    font-family: Georgia;
+}
+img
+{
+    si
+   background-size: cover; 
+
+}
