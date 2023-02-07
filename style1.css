@@ -43,17 +43,19 @@ img
    width: 100%;
    height:auto; 
    background-size:cover; 
+  
+   
 
 }
 .th
 {
-background-color: rgb(82, 147, 119);
+background-color: rgb(115, 34, 81);
 display: flex;
 justify-content: center;
 align-items: center;
 font-weight: bold;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-color: bisque;
+color: rgb(244, 218, 218);
 }
 .four
 {
